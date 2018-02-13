@@ -12,6 +12,12 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="8" />
+    <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
+    <option name="INDENT_CLASS_MEMBERS" value="8" />
+    <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
+  </Objective-C>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -42,10 +48,31 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <indentOptions>
       <option name="INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="8" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

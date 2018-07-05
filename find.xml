@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../openairinterface5g-develop/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c'" />
+    <option name="defaultScopeName" value="File '.../openairinterface5g-develop/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c'" />
+    <option name="SEARCH_SCOPE" value="File '.../openairinterface5g-develop/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c'" />
   </component>
 </application>

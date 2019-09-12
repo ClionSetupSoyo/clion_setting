@@ -12,7 +12,7 @@
     <option name="INDENT_C_STRUCT_MEMBERS" value="8" />
     <option name="INDENT_CLASS_MEMBERS" value="8" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
-    <option name="HEADER_GUARD_STYLE_PATTERN" value="${PROJECT_SOURCE_DIR}_${FILE_NAME}_${EXT}" />
+    <option name="HEADER_GUARD_STYLE_PATTERN" value="${DDRL_PROJECT_NAME}_${FILE_NAME}_${EXT}" />
   </Objective-C>
   <Objective-C-extensions>
     <extensions>
